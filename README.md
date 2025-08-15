@@ -68,7 +68,7 @@ Uninstall_Android/
 ### Desenvolvimento Local
 
 ```bash
-python uv run main.py
+uv run main.py
 ```
 
 1. Conecte seu dispositivo Android via USB e habilite a **Depuração USB**.
@@ -97,7 +97,7 @@ python uv run main.py
 
 ```bash
 # Executar aplicação
-python uv run main.py
+uv run main.py
 ```
 
 ## 📄 Licença
