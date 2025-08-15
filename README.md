@@ -4,6 +4,8 @@
 
 Aplicativo desktop em **Python/Tkinter** para gerenciamento e desinstalação de aplicativos Android conectados via **ADB (Android Debug Bridge)**. Ideal para remover aplicativos do usuário 0 sem necessidade de root.
 
+[Instalando UV](https://docs.astral.sh/uv/getting-started/installation/#installing-uv)
+
 ## 🚀 Tecnologias Utilizadas
 
 * **Python 3.11+** - Linguagem de programação
