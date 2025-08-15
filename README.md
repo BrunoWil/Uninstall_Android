@@ -59,6 +59,7 @@ Uninstall_Android/
 ├── ui/
 │   └── app.py           # Interface Tkinter principal
 ├── uv.toml              # Configurações do projeto UV
+├── main.py              # Executável Uninstall_Android
 └── README.md            # Este arquivo
 ```
 
@@ -67,7 +68,7 @@ Uninstall_Android/
 ### Desenvolvimento Local
 
 ```bash
-python ui/app.py
+python uv run main.py
 ```
 
 1. Conecte seu dispositivo Android via USB e habilite a **Depuração USB**.
@@ -96,7 +97,7 @@ python ui/app.py
 
 ```bash
 # Executar aplicação
-python ui/app.py
+python uv run main.py
 ```
 
 ## 📄 Licença
